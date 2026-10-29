@@ -23,3 +23,7 @@ Run the program with **Ctrl+F5** to see the menu, and run the tests with **Test 
 - Only a `virtual` member can be overridden. A property can be `virtual` and `override` just like a method.
 - `base.ToString()` returns `MenuItem`'s line, already with the right price: it uses `Price`, and a drink's `Price` is the drink's own.
 - `PriceFor` needs no changes at all. Once `Price` is overridden, it works for drinks and pastries too.
+
+## Hand it in
+
+When it works, push your solution to a public repo of your own on GitHub, then paste that repo's address into **Submit your exercise** on the lesson page at [ask-codey.com](https://www.ask-codey.com). That's what completes the lesson. The lesson page shows the Git commands, step by step.
