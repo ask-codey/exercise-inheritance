@@ -1,6 +1,6 @@
-# Practice: Inheritance
+# Exercise: Inheritance
 
-Practice code for the lesson **Practice: Inheritance** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
+Exercise code for the lesson **Exercise: Inheritance** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
 
 A café's menu has plain items, such as a muffin, and two special kinds: **drinks**, priced by size, and **pastries**, which can be warmed. You'll finish the two derived classes, `Drink` and `Pastry`, so they build on `MenuItem` instead of repeating it.
 
